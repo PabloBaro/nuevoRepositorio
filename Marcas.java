@@ -7,9 +7,9 @@ import java.util.Scanner;
  * @version 2021
  */
 public class Marcas {
-    protected Atleta atleta1; //Creamos atleta 1
-    protected Atleta atleta2; //Creamos atleta 2
-    protected Atleta atleta3; //Creamos atleta 3
+    protected Atleta atleta1; //Creación atleta 1
+    protected Atleta atleta2; //Creación atleta 2
+    protected Atleta atleta3; //Creación atleta 3
     
     /**
      * Constructor por parámetros creamos 3 atletas nuevos
